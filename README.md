@@ -1,2 +1,2 @@
 # Python
-Python scripts created by me
+Python scripts find the ip address of websites.
